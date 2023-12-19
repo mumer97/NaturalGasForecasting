@@ -1,4 +1,4 @@
-![image](https://github.com/mumer97/NaturalGasForecasting/assets/126639393/5e53ff30-8b5d-4307-8f9b-541c89c9e82f)# NaturalGasForecasting
+# NaturalGasForecasting
 
 Analyzed past data and applied Linear Regression Microsoft Excel to predict Natural Gas Demand and Shortfall in Pakistan for the next 10 years 
 
@@ -8,5 +8,7 @@ like diesel and petrol to meet the supply. In this way, we could use the current
 until we find other reserves of natural gas. 
 
 
-![Uploading image.png…]()
+
+![image](https://github.com/mumer97/NaturalGasForecasting/assets/126639393/5e1fa546-3cb9-4ff2-992b-51e947460b8a)
+
 
